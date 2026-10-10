@@ -1,0 +1,8 @@
+title: Asian DVD Club (ADC) - Official Information
+description: Official information about Asian DVD Club, a private community for Asian cinema, television, and animation. Official site asiandvdclub.org.
+url: https://koppot.github.io
+baseurl: /asian-dvd-club-official-info
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
